@@ -7,9 +7,9 @@ Being a caregiver to self and others is an essential part of life.
     
   - What role does the awareness of divinity play in a person's life? Ignore this question if you believe that no such thing as "The Divine" exists or that it exists but cannot be contemplated under any circumstances.
   
-  - Contemplate the nature of "space" and "time" or "spacetime". Can a sense of vectorization be ascribed to these concepts?
+  - Contemplate the nature of physical "space" and "time" or "spacetime" needed for a conceivable physical process. Can a sense of vectorization be ascribed to these concepts of place, time and process wit respect to an idempotent datum?
   
-  - - What are essential vs inessential activities? Consider the given table to prioritize your discretizable activities:
+  - What are essential vs inessential activities? Consider the given table to prioritize your discretizable activities:
   
      A / B | A1: Essential | A2: Inessential
     --- | --- | ---
