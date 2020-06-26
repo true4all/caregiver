@@ -1,7 +1,7 @@
 # Caregivers
 Being a caregiver to self and others is an essential part of life. 
 
-## Care and Consideration
+## Capacity for Care and Consideration
 - Sustain moral and ethical grounding
   - Consider the role of human beings within natural ecology. What can a person or group of persons garner vs sacrifice for sustaining a dignified quality of life while enhancing ecological development for themselves?
     
