@@ -14,7 +14,7 @@ Being a caregiver to self and others is an essential part of life.
      A / B | A1: Essential | A2: Inessential
     --- | --- | ---
     **B1: Unavoidable**| A1, B1 | A2, B1
-    **B2: Avaoidable** | A1, B2 | A2, B2
+    **B2: Avoidable** | A1, B2 | A2, B2
   
   - Meditate upon and direct your volition towards these categories of tasks with the appropriate dynamic prioritization:
     - Public activities
@@ -43,23 +43,23 @@ Being a caregiver to self and others is an essential part of life.
   - Architectural spaces
   - Overall Cybernetic
   
-- Sustain personal neutrition
+- Sustain personal nutrition
   - Proportion of food and refreshments
-  - Time of intake and mode of digestion with respect to ciradian rhythm  
+  - Time of intake and mode of digestion with respect to circadian rhythm  
     - Wakeful and active
     - Wakeful and sedentary
     - Sleep and passive
     
 - Sustain socioeconomic and political capacity
   - Maintain personhood 
-    - Beleif system
+    - Belief system
     - Attitude
     - Publicly observable behavior
     - General knowledge
     
   - Maintain communications
     - Articulations
-      - Rhearsable
+      - Rehearsable
       - Impromptu 
   
   - Promote culture
